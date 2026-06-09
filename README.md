@@ -129,7 +129,7 @@ pip install -r requirements.txt
 ==> Running the Black Scholes Option Pricer:
 
 ```bash
-python ‎black-scholes_option_pricing.py‎
+python ‎black_scholes_option_pricing.py‎
 ```
 
 
