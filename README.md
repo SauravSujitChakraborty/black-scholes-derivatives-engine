@@ -1,6 +1,6 @@
  # black_scholes_option_pricer  
 
-NOTE :- This project was made by me during Oct 2025, subsequently preserved and published on Apr11'26.
+NOTE :- This project was made by me during Jul-Aug 2025, subsequently preserved and published on Apr11'26.
 
 THEORY :-
 
