@@ -110,7 +110,8 @@ Results
 ==> Cloning the repository :-
 
 ```bash
-git clone https://github.com/SauravSujitChakraborty/black_scholes_option_pricer.git && cd black_scholes_option_pricer
+git clone https://github.com/SauravSujitChakraborty/black_scholes_option_pricer.git
+cd black_scholes_option_pricer
 ```
 ==> Create and activate environment
 
